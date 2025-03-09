@@ -1,4 +1,5 @@
-Flask
+Flask>=2.0.0
 google-cloud-bigquery
 gunicorn
+werkzeug>=2.0.0
 
